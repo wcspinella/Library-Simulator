@@ -1,4 +1,4 @@
-# project-8
+# Library Simulator
 
 You will be writing a Library simulator involving multiple classes.  You will write the LibraryItem, Patron and Library classes, and the three classes that inherit from LibraryItem (Book, Album and Movie).  All data members of each class should be marked as **private** (a leading underscore in the name).  Since they're private, if you need to access them from outside the class, you should do so via get or set methods.  Any get or set methods should be named per the usual convention ("get_" or "set_" followed by the name of the data member).
 
